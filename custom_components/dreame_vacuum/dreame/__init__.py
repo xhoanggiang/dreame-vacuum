@@ -1,4 +1,4 @@
-VERSION = "v2.0.0b20"
+VERSION = "v2.0.0b22"
 
 from .types import (
     DreameVacuumProperty,
@@ -67,4 +67,5 @@ from .exceptions import (
     DeviceUpdateFailedException,
     InvalidActionException,
     InvalidValueException,
+
 )
